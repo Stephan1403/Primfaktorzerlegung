@@ -11,7 +11,7 @@ def isPrimzahl(zahl):
         
     return True
 
-#gibt die nächst große Primzahl zurück
+
 def nextPrimzahl(letzteZahl):
     aktuelleZahl = letzteZahl + 1
 
